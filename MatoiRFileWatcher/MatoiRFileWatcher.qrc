@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="MatoiRFileWatcher">
+    <file>MatoiRFileWatcher.qrc</file>
+    <file>res/watch.png</file>
+  </qresource>
+</RCC>
